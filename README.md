@@ -1,7 +1,5 @@
 ### Hi there 👋
-I add hover states
 
-When you hover over the box, the color turns yellow
 <!--
 **togemaru0217/togemaru0217** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
